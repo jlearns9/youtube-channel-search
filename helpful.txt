@@ -1,0 +1,9 @@
+DATA PATHS
+image: snippet.thumbnails.SIZE.url
+- SIZE: small/medium/large/default
+channel title: snippet.channelTitle
+video title:  snippet.title
+publish time:  snippet.publishTime
+description: snippet.description
+
+Need to fix 
